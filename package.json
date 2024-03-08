@@ -1,0 +1,11 @@
+{
+  "name": "devtools-extension",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thingsinjars/devtools-extension.git",
+  "author": "Maxim Bazuev <bazuka5801@mail.ru>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chrome": "^0.0.262"
+  }
+}
