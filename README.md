@@ -16,9 +16,10 @@
 
 - Done. If you open inspector you will see a new tab when inspect an element
 
+**__10 Stars__** - Release on `Chrome Web Store` (Extensions) for easy installations
+
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/bazuka5801/css-vtable">
 
-### 10 Stars - Release on Chrome Web Store (Extensions) for easy installations
 
 ### Developer contacts:
 <div style="border-radius: 200px;">
